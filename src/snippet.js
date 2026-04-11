@@ -20,7 +20,8 @@ const domain_whitelist = [
   'github.community',
   'desktop.github.com',
   'central.github.com',
-  'release-assets.githubusercontent.com'
+  'release-assets.githubusercontent.com',
+  'codeload.github.com'
 ];
 
 // 由白名单自动生成映射
